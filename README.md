@@ -1,7 +1,9 @@
 <strong>Simple SnowDay Counter</strong>
+<br>
+Author: Yadiel Cabrera 
 
 This project is part of the course "React Essential Training" on Lynda.com by Eve Porcello.
-The application simulates a simple snowday counter where we use routes to navigate between the different components.<br> 
+The application simulates a simple snowday counter where we use routes to navigate between the different components.<br>
 
 We also use the react icons library to display the different icons in the navigation.
 
